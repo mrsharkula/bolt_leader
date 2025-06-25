@@ -1,0 +1,1547 @@
+{
+  "mattresses": [
+    {
+      "id": "tradicionalni-jastuk",
+      "order": 0,
+      "coverImage": {
+        "path": "/Tradicionalni-Jastuk.jpg",
+        "alt": {
+          "en": "Traditional Pillow - Memory foam filled pillow for side and back sleepers",
+          "sr": "Tradicionalni jastuk - Jastuk napunjen memorijskom penom za spavanje na boku i leđima"
+        }
+      },
+      "name": {
+        "en": "Traditional Pillow",
+        "sr": "Tradicionalni Jastuk"
+      },
+      "description": {
+        "en": "Dormilux traditional pillow is suitable for sleeping on the side and on the back. Conforming contour, biomechanical support, pleasant feeling, high air circulation, optimal position in the neck and shoulder area. The soft core of the pillow is filled with ground memory foam. Provides the highest degree of breathing activity and heat regulation.",
+        "sr": "Dormilux tradicionalni jastuk je pogodan za spavanje na boku i na leđima. Prijanajuća kontura, biomehaničko oslanjanje, prijatan osećaj, visoka cirkulacija vazduha, optimalna pozicija u predelu vrata i ramena. Mekano jezgro jastuka je napunjeno od mlevene memory pene. Obezbeđuje najviši stepen disajne aktivnosti i regulaciju toplote."
+      },
+      "shortDescription": {
+        "en": "Memory foam filled pillow with biomechanical support",
+        "sr": "Jastuk napunjen memorijskom penom sa biomehaničkom podrškom"
+      },
+      "dimensions": [
+        {
+          "size": "50x40cm",
+          "measurements": "50 x 40 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 1100
+          }
+        },
+        {
+          "size": "60x40cm",
+          "measurements": "60 x 40 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 1600
+          }
+        },
+        {
+          "size": "70x50cm",
+          "measurements": "70 x 50 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 2200
+          }
+        }
+      ],
+      "features": {
+        "en": [
+          "Suitable for side and back sleepers",
+          "Conforming contour design",
+          "Biomechanical support",
+          "High air circulation",
+          "Ground memory foam filling",
+          "Heat regulation",
+          "Optimal neck and shoulder positioning",
+          "1-year warranty"
+        ],
+        "sr": [
+          "Pogodan za spavanje na boku i leđima",
+          "Prijanajuća kontura",
+          "Biomehaničko oslanjanje",
+          "Visoka cirkulacija vazduha",
+          "Napunjen mlevenom memory penom",
+          "Regulacija toplote",
+          "Optimalna pozicija vrata i ramena",
+          "1 godina garancije"
+        ]
+      },
+      "specifications": {
+        "warranty": {
+          "en": "1 year",
+          "sr": "1 godina"
+        },
+        "filling": {
+          "en": "Ground memory foam for optimal support and comfort",
+          "sr": "Mlevena memory pena za optimalnu podršku i udobnost"
+        },
+        "design": {
+          "en": "Conforming contour with biomechanical support",
+          "sr": "Prijanajuća kontura sa biomehaničkim oslanjanjem"
+        },
+        "airflow": {
+          "en": "High air circulation for temperature regulation",
+          "sr": "Visoka cirkulacija vazduha za regulaciju temperature"
+        },
+        "sleepPosition": {
+          "en": "Optimized for side and back sleeping positions",
+          "sr": "Optimizovan za spavanje na boku i leđima"
+        },
+        "care": {
+          "en": "Follow care instructions for optimal longevity",
+          "sr": "Pratite uputstva za održavanje za optimalnu dugotrajnost"
+        }
+      },
+      "images": [],
+      "category": "pillow",
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": "memory-jastuk",
+      "order": 1,
+      "coverImage": {
+        "path": "/Memory-Jastuk.jpg",
+        "alt": {
+          "en": "Memory Pillow - Anatomical pillow for neck and shoulder pain relief",
+          "sr": "Memory jastuk - Anatomski jastuk za ublažavanje bolova u vratu i ramenima"
+        }
+      },
+      "name": {
+        "en": "Memory Pillow",
+        "sr": "Memory Jastuk"
+      },
+      "description": {
+        "en": "The main causes of pain in the shoulders, neck and head are poor position and pressure in the cervical spine. The pillow is the key to proper sleeping position. Its choice is of utmost importance. The anatomical pillow, in addition to providing support to the cervical spine, does not press on the sensitive structures of the neck thanks to the unique properties of the material. Due to its extremely ergonomic features, it is considered a remedy of physical medicine. The use of such a pillow significantly improves the quality of sleep, and thus the quality of life itself.",
+        "sr": "Glavni uzroci bola u ramenima, vratu i glavi su loš položaj i pritisak u vratnom delu kičme. Jastuk je ključ pravilnog položaja pri spavanju. Njegov izbog je od izuzetne važnosti. Anatomski jastuk, osim što daje oslonac vratnoj kičmi, ne pritiska osetljive strukture vrata zahvaljujući unikatnim svojstvima materijala. Zbog svojih izuzetno ergonomskih osobina smatra se lekom fizikalne medicine. Upotreba ovakvog jastuka značajno popravlja kvalitet sna, a samim tim i kvalitet samog života."
+      },
+      "shortDescription": {
+        "en": "Anatomical pillow for neck pain relief and ergonomic support",
+        "sr": "Anatomski jastuk za ublažavanje bolova u vratu i ergonomsku podršku"
+      },
+      "dimensions": [
+        {
+          "size": "45x30cm",
+          "measurements": "45 x 30 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 1800
+          }
+        },
+        {
+          "size": "55x33cm",
+          "measurements": "55 x 33 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 2800
+          }
+        },
+        {
+          "size": "60x38cm",
+          "measurements": "60 x 38 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 3500
+          }
+        }
+      ],
+      "features": {
+        "en": [
+          "Anatomical design for cervical spine support",
+          "Relieves neck and shoulder pain",
+          "Prevents pressure on sensitive neck structures",
+          "Unique material properties",
+          "Extremely ergonomic features",
+          "Considered physical medicine remedy",
+          "Improves sleep quality",
+          "Enhances quality of life",
+          "3-year warranty"
+        ],
+        "sr": [
+          "Anatomski dizajn za podršku vratne kičme",
+          "Ublažava bolove u vratu i ramenima",
+          "Sprečava pritisak na osetljive strukture vrata",
+          "Unikatna svojstva materijala",
+          "Izuzetno ergonomske osobine",
+          "Smatra se lekom fizikalne medicine",
+          "Poboljšava kvalitet sna",
+          "Povećava kvalitet života",
+          "3 godine garancije"
+        ]
+      },
+      "specifications": {
+        "warranty": {
+          "en": "3 years",
+          "sr": "3 godine"
+        },
+        "design": {
+          "en": "Anatomical design specifically for cervical spine support and pain relief",
+          "sr": "Anatomski dizajn specifično za podršku vratne kičme i ublažavanje bolova"
+        },
+        "material": {
+          "en": "Unique memory foam material with ergonomic properties",
+          "sr": "Unikatni materijal memorijske pene sa ergonomskim svojstvima"
+        },
+        "benefits": {
+          "en": "Prevents pressure on sensitive neck structures, improves sleep quality",
+          "sr": "Sprečava pritisak na osetljive strukture vrata, poboljšava kvalitet sna"
+        },
+        "medicalUse": {
+          "en": "Considered a remedy of physical medicine due to ergonomic features",
+          "sr": "Smatra se lekom fizikalne medicine zbog ergonomskih osobina"
+        },
+        "sleepPosition": {
+          "en": "Ensures proper sleeping position and cervical spine alignment",
+          "sr": "Obezbeđuje pravilan položaj pri spavanju i poravnanje vratne kičme"
+        },
+        "care": {
+          "en": "Follow care instructions for optimal longevity and hygiene",
+          "sr": "Pratite uputstva za održavanje za optimalnu dugotrajnost i higijenu"
+        }
+      },
+      "images": [],
+      "category": "pillow",
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": "ortopedico-memory",
+      "order": 2,
+      "coverImage": {
+        "path": "/Ortopedico-Memory - 01.jpg",
+        "alt": {
+          "en": "Ortopedico Memory Mattress - Memory foam and Bonnell spring combination",
+          "sr": "Ortopedico Memory dušek - Kombinacija memorijske pene i Bonnell opruga"
+        }
+      },
+      "name": {
+        "en": "Ortopedico Memory",
+        "sr": "Ortopedico Memory"
+      },
+      "description": {
+        "en": "The combination of Memory foam and Bonnell springs enables increased adaptability to the body and accelerated relaxation. Recommended for people who are exposed to increased stress or strain during the day. All materials used for this product originate from the EU and as such do not contain substances harmful to human health.",
+        "sr": "Kombinacija Memory i Bonnelli opruga omogućava povećanu prilagodljivost telu i ubrzano opuštanje. Preporučuje se ljudima koji su izloženi pojačanim naporima ili povećanom stresu tokom dana. Svi materijali upotrebljeni za ovaj proizvod vode poreklo iz EU i kao takvi ne sadrže materije koje su štetne po ljudsko zdravlje."
+      },
+      "shortDescription": {
+        "en": "Memory foam and Bonnell spring combination for enhanced adaptability",
+        "sr": "Kombinacija memorijske pene i Bonnell opruga za povećanu prilagodljivost"
+      },
+      "dimensions": [
+        {
+          "size": "190x80cm",
+          "measurements": "190 x 80 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 20160
+          }
+        },
+        {
+          "size": "200x80cm",
+          "measurements": "200 x 80 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 20460
+          }
+        },
+        {
+          "size": "190x90cm",
+          "measurements": "190 x 90 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 22440
+          }
+        },
+        {
+          "size": "200x90cm",
+          "measurements": "200 x 90 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 22344
+          }
+        },
+        {
+          "size": "200x100cm",
+          "measurements": "200 x 100 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 25080
+          }
+        },
+        {
+          "size": "190x120cm",
+          "measurements": "190 x 120 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 29100
+          }
+        },
+        {
+          "size": "200x120cm",
+          "measurements": "200 x 120 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 28800
+          }
+        },
+        {
+          "size": "190x140cm",
+          "measurements": "190 x 140 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 33480
+          }
+        },
+        {
+          "size": "200x140cm",
+          "measurements": "200 x 140 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 33720
+          }
+        },
+        {
+          "size": "190x150cm",
+          "measurements": "190 x 150 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 35640
+          }
+        },
+        {
+          "size": "190x160cm",
+          "measurements": "190 x 160 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 37920
+          }
+        },
+        {
+          "size": "200x160cm",
+          "measurements": "200 x 160 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 38160
+          }
+        },
+        {
+          "size": "195x165cm",
+          "measurements": "195 x 165 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 40560
+          }
+        },
+        {
+          "size": "190x180cm",
+          "measurements": "190 x 180 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 42360
+          }
+        },
+        {
+          "size": "200x180cm",
+          "measurements": "200 x 180 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 42600
+          }
+        }
+      ],
+      "features": {
+        "en": [
+          "Memory foam and Bonnell spring combination",
+          "Increased body adaptability",
+          "Accelerated relaxation",
+          "Recommended for high stress/strain",
+          "EU-sourced materials",
+          "Chemical-free construction",
+          "27cm height",
+          "7-year warranty"
+        ],
+        "sr": [
+          "Kombinacija Memory i Bonnell opruga",
+          "Povećana prilagodljivost telu",
+          "Ubrzano opuštanje",
+          "Preporučuje se za pojačane napore",
+          "Materijali iz EU",
+          "Konstrukcija bez štetnih materija",
+          "Visina 27cm",
+          "7 godina garancije"
+        ]
+      },
+      "specifications": {
+        "height": "27cm",
+        "firmness": {
+          "en": "Medium-firm with memory adaptation",
+          "sr": "Srednje-čvrst sa memory prilagođavanjem"
+        },
+        "warranty": {
+          "en": "7 years",
+          "sr": "7 godina"
+        },
+        "cover": {
+          "en": "Fixed cover made of stretch fabric, 100% polyester composition, quilted with 200gr/m² PES wadding and quilted foam 10mm, density 20kg/m² and 70kg/m² stretch mesh. Cover is closed.",
+          "sr": "Presvlaka je fiksna i od rastegljivog platna, sirovinskog sastava 100% poliester, prošivena 200gr/m² pes vatom, i prošivenim sunđerom 10mm, gustine 20kg/m² i 70kg/m² rastegljivom mrežicom. Presvlaka je zatvorena."
+        },
+        "core": {
+          "en": "Bonnell core 14cm height, 2.2mm wire thickness, 115 springs/m². Fixed thermal felt 1000gr/m² on both sides and HR foam 3cm thickness, 40kg/m³ density.",
+          "sr": "Bonnelli jezgro visine 14 cm i debljine 2,2mm, gustinom 115 kom/m² opruga. Sa obe strane je fiksiran termo filc 1000gr/m² i HR pene od 3 cm debljine i 40kg/m³ gustine."
+        },
+        "foam": {
+          "en": "Top layer consists of 3cm memory foam with 50kg/m³ density. Made of special foam layers with different specific densities.",
+          "sr": "Gornji sloj madraca čini 3cm memory pene gustine 50kg/m³. Sačinjena je od slojeva specijalnih sunđera različite specifične gustine."
+        },
+        "care": {
+          "en": "Cover can be hand washed at 40°C. Optimal effect is achieved at temperatures from 15°C to 30°C.",
+          "sr": "Presvlaka se pere na 40ºC ručno. Pravi efekat se postiže na temperaturi od 15ºC do 30ºC."
+        },
+        "materials": {
+          "en": "EU-sourced materials, chemical-free, safe for human health",
+          "sr": "Materijali iz EU, bez štetnih hemikalija, bezbedni po ljudsko zdravlje"
+        }
+      },
+      "images": [
+        {
+          "path": "/Ortopedico-Memory - 02.jpg",
+          "alt": {
+            "en": "Ortopedico Memory mattress corner detail showing Dormilux branding and quality construction",
+            "sr": "Detalj ugla Ortopedico Memory dušeka sa Dormilux brendom i kvalitetnom konstrukcijom"
+          },
+          "order": 1
+        },
+        {
+          "path": "/Ortopedico-Memory - 03.jpg",
+          "alt": {
+            "en": "Close-up of Ortopedico Memory mattress label showing abc sleep concept and Dormilux branding",
+            "sr": "Detaljan prikaz etikete Ortopedico Memory dušeka sa abc sleep concept i Dormilux brendom"
+          },
+          "order": 2
+        }
+      ],
+      "category": "memory-foam",
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": "medilux-bonnell-spring",
+      "order": 3,
+      "coverImage": {
+        "path": "/Medilux - 01.jpg",
+        "alt": {
+          "en": "Medilux Bonnell Spring Mattress - Enhanced core firmness",
+          "sr": "Medilux Bonnell opružni dušek - Pojačana čvrstoća jezgra"
+        }
+      },
+      "name": {
+        "en": "Medilux",
+        "sr": "Medilux"
+      },
+      "description": {
+        "en": "Enhanced core firmness mattress with excellent price-to-quality ratio and great durability. Made with EU-sourced materials that are safe for human health. Features Bonnell spring system with thermal felt and high-density foam layers.",
+        "sr": "Dušek sa pojačanom čvrstoćom jezgra, najbolji odnos cene i kvaliteta i velika dugotrajnost. Napravljen od materijala iz EU koji su bezbedni po ljudsko zdravlje. Sadrži Bonnell opružni sistem sa termo filcom i visokodenzitetnim slojevima pene."
+      },
+      "shortDescription": {
+        "en": "Enhanced firmness with excellent price-quality ratio",
+        "sr": "Pojačana čvrstoća sa odličnim odnosom cene i kvaliteta"
+      },
+      "dimensions": [
+        {
+          "size": "190x80cm",
+          "measurements": "190 x 80 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 12840
+          }
+        },
+        {
+          "size": "200x80cm",
+          "measurements": "200 x 80 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 13068
+          }
+        },
+        {
+          "size": "190x90cm",
+          "measurements": "190 x 90 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 14280
+          }
+        },
+        {
+          "size": "200x90cm",
+          "measurements": "200 x 90 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 14784
+          }
+        },
+        {
+          "size": "200x100cm",
+          "measurements": "200 x 100 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 16560
+          }
+        },
+        {
+          "size": "200x120cm",
+          "measurements": "200 x 120 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 18768
+          }
+        },
+        {
+          "size": "190x120cm",
+          "measurements": "190 x 120 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 18600
+          }
+        },
+        {
+          "size": "200x140cm",
+          "measurements": "200 x 140 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 21600
+          }
+        },
+        {
+          "size": "190x140cm",
+          "measurements": "190 x 140 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 21480
+          }
+        },
+        {
+          "size": "190x150cm",
+          "measurements": "190 x 150 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 22920
+          }
+        },
+        {
+          "size": "200x160cm",
+          "measurements": "200 x 160 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 24564
+          }
+        },
+        {
+          "size": "195x165cm",
+          "measurements": "195 x 165 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 26400
+          }
+        },
+        {
+          "size": "190x160cm",
+          "measurements": "190 x 160 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 28920
+          }
+        },
+        {
+          "size": "190x180cm",
+          "measurements": "190 x 180 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 30780
+          }
+        },
+        {
+          "size": "200x180cm",
+          "measurements": "200 x 180 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 35880
+          }
+        }
+      ],
+      "features": {
+        "en": [
+          "Enhanced core firmness",
+          "Best price-to-quality ratio",
+          "Great durability",
+          "EU-sourced materials",
+          "Safe for human health",
+          "23cm height",
+          "3-year warranty"
+        ],
+        "sr": [
+          "Pojačana čvrstoća jezgra",
+          "Najbolji odnos cene i kvaliteta",
+          "Velika dugotrajnost",
+          "Materijali iz EU",
+          "Bezbedno po ljudsko zdravlje",
+          "Visina 23cm",
+          "3 godine garancije"
+        ]
+      },
+      "specifications": {
+        "height": "23cm",
+        "firmness": {
+          "en": "Enhanced firm",
+          "sr": "Pojačano čvrst"
+        },
+        "warranty": {
+          "en": "3 years",
+          "sr": "3 godine"
+        },
+        "cover": {
+          "en": "Fixed cover: 60% cotton, 40% polyester, quilted with 200gr/m² PES wadding, 5mm foam (20kg/m³), and retex",
+          "sr": "Fiksna presvlaka: 60% pamuk, 40% poliester, prošivena 200gr/m² pes vatom, 5mm sunđer (20kg/m³) i reteks"
+        },
+        "core": {
+          "en": "Bonnell spring core 15cm height, 2.2mm wire diameter, 120+ springs/m², thermal felt 1000gr/m² on both sides",
+          "sr": "Žičano jezgro Bonnelli visine 15cm, promer žice 2,2mm, 120+ opruga/m², termo filc 1000gr/m² sa obe strane"
+        },
+        "foam": {
+          "en": "2cm foam (30kg/m³) top and bottom, 7cm reinforced side bands (30kg/m³)",
+          "sr": "2cm sunđer (30kg/m³) gore i dole, 7cm pojačani obruči sa strana (30kg/m³)"
+        },
+        "tolerances": {
+          "en": "Length tolerance: ±1.5cm, Height tolerance: ±1cm",
+          "sr": "Odstupanje po dužini: ±1,5cm, po visini: ±1cm"
+        },
+        "care": {
+          "en": "No machine washing of cover. Use only furniture maintenance products for cleaning.",
+          "sr": "Zabranjeno mašinsko pranje presvlake. Za čišćenje koristi isključivo sredstva za održavanje mebla."
+        }
+      },
+      "images": [
+        {
+          "path": "/Medilux - 02.jpg",
+          "alt": {
+            "en": "Medilux mattress corner detail showing Dormilux branding and quality construction",
+            "sr": "Detalj ugla Medilux dušeka sa Dormilux brendom i kvalitetnom konstrukcijom"
+          },
+          "order": 1
+        },
+        {
+          "path": "/Medilux - 03.jpg",
+          "alt": {
+            "en": "Close-up of Medilux mattress label showing abc sleep concept and Dormilux branding",
+            "sr": "Detaljan prikaz etikete Medilux dušeka sa abc sleep concept i Dormilux brendom"
+          },
+          "order": 2
+        }
+      ],
+      "category": "spring",
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": "komfort",
+      "order": 4,
+      "coverImage": {
+        "path": "/Komfort - 01.jpg",
+        "alt": {
+          "en": "Komfort Mattress - Elasticity, comfort, and durability",
+          "sr": "Komfort dušek - Elastičnost, udobnost, dugotrajnost"
+        }
+      },
+      "name": {
+        "en": "Komfort",
+        "sr": "Komfort"
+      },
+      "description": {
+        "en": "Economically accessible mattress offering elasticity, comfort, and durability. Features Bonnell spring core with foam layers for optimal support. All materials used for this product originate from the EU and as such do not contain substances harmful to human health. Allowed deviation in product dimensions: length ±1.5cm, height ±1cm.",
+        "sr": "Elastičnost, udobnost, dugotrajnost. Ekonomski pristupačan. Zadržava grinje. Dozvoljeno odstupanje u dimenzijama proizvoda po dužini 1,5cm i po visini 1cm. Zabranjeno mašinsko pranje presvlake. Za čišćenje proizvoda koristi isključivo sredstva za održavanje mebla. Svi materijali upotrebljeni za ovaj proizvod vode poreklo iz EU i kao takvi ne sadrže materije koje su štetne po ljudsko zdravlje."
+      },
+      "shortDescription": {
+        "en": "Economically accessible with elasticity, comfort, and durability",
+        "sr": "Ekonomski pristupačan sa elastičnošću, udobnošću i dugotrajnošću"
+      },
+      "dimensions": [
+        {
+          "size": "190x80cm",
+          "measurements": "190 x 80 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 9120
+          }
+        },
+        {
+          "size": "200x80cm",
+          "measurements": "200 x 80 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 9444
+          }
+        },
+        {
+          "size": "190x90cm",
+          "measurements": "190 x 90 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 10080
+          }
+        },
+        {
+          "size": "200x90cm",
+          "measurements": "200 x 90 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 10464
+          }
+        },
+        {
+          "size": "200x100cm",
+          "measurements": "200 x 100 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 12228
+          }
+        },
+        {
+          "size": "190x120cm",
+          "measurements": "190 x 120 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 13320
+          }
+        },
+        {
+          "size": "200x120cm",
+          "measurements": "200 x 120 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 13560
+          }
+        },
+        {
+          "size": "190x140cm",
+          "measurements": "190 x 140 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 15360
+          }
+        },
+        {
+          "size": "200x140cm",
+          "measurements": "200 x 140 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 15600
+          }
+        },
+        {
+          "size": "190x150cm",
+          "measurements": "190 x 150 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 16440
+          }
+        },
+        {
+          "size": "190x160cm",
+          "measurements": "190 x 160 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 17520
+          }
+        },
+        {
+          "size": "200x160cm",
+          "measurements": "200 x 160 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 17880
+          }
+        },
+        {
+          "size": "195x165cm",
+          "measurements": "195 x 165 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 18600
+          }
+        },
+        {
+          "size": "190x180cm",
+          "measurements": "190 x 180 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 19620
+          }
+        },
+        {
+          "size": "200x180cm",
+          "measurements": "200 x 180 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 19920
+          }
+        }
+      ],
+      "features": {
+        "en": [
+          "Elasticity, comfort, durability",
+          "Economically accessible",
+          "Dust mite resistant",
+          "EU-sourced materials",
+          "Safe for human health",
+          "22cm height",
+          "3-year warranty"
+        ],
+        "sr": [
+          "Elastičnost, udobnost, dugotrajnost",
+          "Ekonomski pristupačan",
+          "Zadržava grinje",
+          "Materijali iz EU",
+          "Bezbedno po ljudsko zdravlje",
+          "Visina 22cm",
+          "3 godine garancije"
+        ]
+      },
+      "specifications": {
+        "height": "22cm",
+        "firmness": {
+          "en": "Medium",
+          "sr": "Srednji"
+        },
+        "warranty": {
+          "en": "3 years",
+          "sr": "3 godine"
+        },
+        "cover": {
+          "en": "Fixed cover made of fabric with 60% cotton and 40% polyester composition, quilted with 200gr/m² PES wadding and 20gr/m² non-woven fabric.",
+          "sr": "Presvlaka je fiksna izgrađena od platna sirovinskog sastava 60% pamuk i 40% poliester, proštepana je 200gr/m² pes vatom i 20gr/m² netkanim platnom."
+        },
+        "core": {
+          "en": "Bonnell spring core 15cm height, 2.2mm wire diameter, 115+ springs/m². Fixed thermal felt 1000gr/m² on both sides.",
+          "sr": "Sačinjena od žičanog jezgra Bonnelli visine 15cm promer žice 2,2 mm i gustinom opruga višom od 115 kom/m². Sa obe strane jezgra je fiksni termo filc 1000gr/m²."
+        },
+        "foam": {
+          "en": "Complete core is covered with foam density 20kg/m³ - 2cm thickness on top and bottom sides, 8cm thickness and 14cm height on side bands.",
+          "sr": "Kompletno jezgro je obloženo sunđerom gustine 20kg/m³ sa gornje i donje strane debljine 2cm i bočnih strana debljine 8 cm i visine 14 cm."
+        },
+        "tolerances": {
+          "en": "Allowed deviation in product dimensions: length ±1.5cm, height ±1cm",
+          "sr": "Dozvoljeno odstupanje u dimenzijama proizvoda po dužini 1,5cm i po visini 1cm"
+        },
+        "care": {
+          "en": "Machine washing of cover is prohibited. Use only furniture maintenance products for cleaning.",
+          "sr": "Zabranjeno mašinsko pranje presvlake. Za čišćenje proizvoda koristi isključivo sredstva za održavanje mebla."
+        },
+        "materials": {
+          "en": "EU-sourced materials, chemical-free, safe for human health",
+          "sr": "Materijali iz EU, bez štetnih hemikalija, bezbedni po ljudsko zdravlje"
+        }
+      },
+      "images": [],
+      "category": "spring",
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": "king-lux",
+      "order": 5,
+      "coverImage": {
+        "path": "/King-Lux - 01.jpg",
+        "alt": {
+          "en": "King Lux Mattress - Best and most advanced product on the market",
+          "sr": "King Lux dušek - Najbolji i najsavremeniji proizvod na tržištu"
+        }
+      },
+      "name": {
+        "en": "King Lux",
+        "sr": "King Lux"
+      },
+      "description": {
+        "en": "The best and most advanced product on the market. Exceptional firmness and comfort with very high durability and longevity. All materials used for this product originate from the EU and as such do not contain substances harmful to human health. Allowed deviation in product dimensions: length ±1.5cm, height ±1cm. Machine washing of cover is prohibited. Use only furniture maintenance products for cleaning.",
+        "sr": "Najbolji i najsavremeniji proizvod na tržištu. Izuzetna čvrstoća i udobnost. Veoma velika izdržljivost i dugotrajnost. Dozvoljeno odstupanje u dimenzijama proizvoda po dužini 1,5cm i po visini 1cm. Zabranjeno mašinsko pranje presvlake. Za čišćenje proizvoda koristi isključivo sredstva za održavanje mebla. Svi materijali upotrebljeni za ovaj proizvod vode poreklo iz EU i kao takvi ne sadrže materije koje su štetne po ljudsko zdravlje."
+      },
+      "shortDescription": {
+        "en": "Best and most advanced product with exceptional firmness and comfort",
+        "sr": "Najbolji i najsavremeniji proizvod sa izuzetnom čvrstoćom i udobnošću"
+      },
+      "dimensions": [
+        {
+          "size": "190x80cm",
+          "measurements": "190 x 80 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 23880
+          }
+        },
+        {
+          "size": "200x80cm",
+          "measurements": "200 x 80 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 24564
+          }
+        },
+        {
+          "size": "190x90cm",
+          "measurements": "190 x 90 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 26640
+          }
+        },
+        {
+          "size": "200x90cm",
+          "measurements": "200 x 90 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 27312
+          }
+        },
+        {
+          "size": "200x100cm",
+          "measurements": "200 x 100 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 30360
+          }
+        },
+        {
+          "size": "190x120cm",
+          "measurements": "190 x 120 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 34680
+          }
+        },
+        {
+          "size": "200x120cm",
+          "measurements": "200 x 120 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 35880
+          }
+        },
+        {
+          "size": "190x140cm",
+          "measurements": "190 x 140 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 40080
+          }
+        },
+        {
+          "size": "200x140cm",
+          "measurements": "200 x 140 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 40800
+          }
+        },
+        {
+          "size": "190x150cm",
+          "measurements": "190 x 150 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 42840
+          }
+        },
+        {
+          "size": "190x160cm",
+          "measurements": "190 x 160 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 45600
+          }
+        },
+        {
+          "size": "200x160cm",
+          "measurements": "200 x 160 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 46560
+          }
+        },
+        {
+          "size": "195x165cm",
+          "measurements": "195 x 165 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 48600
+          }
+        },
+        {
+          "size": "190x180cm",
+          "measurements": "190 x 180 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 51000
+          }
+        },
+        {
+          "size": "200x180cm",
+          "measurements": "200 x 180 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 52080
+          }
+        }
+      ],
+      "features": {
+        "en": [
+          "Best and most advanced product on the market",
+          "Exceptional firmness and comfort",
+          "Very high durability and longevity",
+          "EU-sourced materials",
+          "Safe for human health",
+          "31cm height",
+          "7-year warranty"
+        ],
+        "sr": [
+          "Najbolji i najsavremeniji proizvod na tržištu",
+          "Izuzetna čvrstoća i udobnost",
+          "Veoma velika izdržljivost i dugotrajnost",
+          "Materijali iz EU",
+          "Bezbedno po ljudsko zdravlje",
+          "Visina 31cm",
+          "7 godina garancije"
+        ]
+      },
+      "specifications": {
+        "height": "31cm",
+        "firmness": {
+          "en": "Exceptional firmness with superior comfort",
+          "sr": "Izuzetna čvrstoća sa vrhunskom udobnošću"
+        },
+        "warranty": {
+          "en": "7 years",
+          "sr": "7 godina"
+        },
+        "cover": {
+          "en": "Cover sewn with tape, made of fabric with 60% cotton and 40% polyester composition, quilted with 300gr/m² wadding, 10mm foam density 20kg/m³, and retex.",
+          "sr": "Presvlaka ušivena trakom, izrađena od platna sirovinskog sastava 60% pamuk i 40% poliester, prošivena 300gr/m² vatom, 10mm sunđerom gustine 20kg/m³, i reteksom."
+        },
+        "core": {
+          "en": "Bonnell wire core 2.2mm thickness, fixed thermal felt 1000gr/m² on both sides. Core interior reinforced with bands 15cm height and 5cm thickness. Complete core covered with foam on all sides.",
+          "sr": "Žičano jezgro Bonnelli debljine žice 2,2mm, obostrane fiksiran termo filcom 1000gr/m². Unutrašnjost jezgra ojačana kajlama 15cm visine i 5cm debljine. Kompletno jezgro je obloženo sa svih strana sunđerom."
+        },
+        "foam": {
+          "en": "Top side: 6cm HR foam density 42kg/m³, side bands: 7cm density 35kg/m². Core sewn with flash frame on both sides.",
+          "sr": "Sa gornje strane debljine 6cm HR pene gustine 42kg/m³ i bočnih strana 7cm gustine 35kg/m³. Jezgro je obšiveno flah ramom sa obe strane."
+        },
+        "tolerances": {
+          "en": "Allowed deviation in product dimensions: length ±1.5cm, height ±1cm",
+          "sr": "Dozvoljeno odstupanje u dimenzijama proizvoda po dužini 1,5cm i po visini 1cm"
+        },
+        "care": {
+          "en": "Machine washing of cover is prohibited. Use only furniture maintenance products for cleaning.",
+          "sr": "Zabranjeno mašinsko pranje presvlake. Za čišćenje proizvoda koristi isključivo sredstva za održavanje mebla."
+        },
+        "materials": {
+          "en": "EU-sourced materials, chemical-free, safe for human health",
+          "sr": "Materijali iz EU, bez štetnih hemikalija, bezbedni po ljudsko zdravlje"
+        }
+      },
+      "images": [
+        {
+          "path": "/King-Lux - 02.jpg",
+          "alt": {
+            "en": "King Lux mattress corner detail showing Dormilux branding and premium construction",
+            "sr": "Detalj ugla King Lux dušeka sa Dormilux brendom i premium konstrukcijom"
+          },
+          "order": 1
+        },
+        {
+          "path": "/King-Lux - 03.jpg",
+          "alt": {
+            "en": "Close-up of King Lux mattress label showing abc sleep concept and Dormilux branding",
+            "sr": "Detaljan prikaz etikete King Lux dušeka sa abc sleep concept i Dormilux brendom"
+          },
+          "order": 2
+        }
+      ],
+      "category": "hybrid",
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": "king",
+      "order": 6,
+      "coverImage": {
+        "path": "/King.jpg",
+        "alt": {
+          "en": "King Mattress - Core firmness and support with very comfortable surface",
+          "sr": "King dušek - Čvrstoća i nosivost jezgra, veoma udobna površina"
+        }
+      },
+      "name": {
+        "en": "King",
+        "sr": "King"
+      },
+      "description": {
+        "en": "Core firmness and support with very comfortable surface. Quality justifies the price. Very durable and comfortable product. All materials used for this product originate from the EU and as such do not contain substances harmful to human health. Allowed deviation in product dimensions: length ±1.5cm, width ±1cm, height ±1cm. Machine washing of cover is prohibited. Use only furniture maintenance products for cleaning.",
+        "sr": "Čvrstoća i nosivost jezgra, veoma udobna površina. Kvalitet opravdava cenu. Veoma izdržljiv i udoban proizvod. Dozvoljeno odstupanje u dimenzijama proizvoda po dužini 1,5cm po širini 1cm po visini 1cm. Zabranjeno mašinsko pranje presvlake. Za čišćenje proizvoda koristi isključivo sredstva za održavanje mebla. Svi materijali upotrebljeni za ovaj proizvod vode poreklo iz EU i kao takvi ne sadrže materije koje su štetne po ljudsko zdravlje."
+      },
+      "shortDescription": {
+        "en": "Core firmness and support with very comfortable surface",
+        "sr": "Čvrstoća i nosivost jezgra, veoma udobna površina"
+      },
+      "dimensions": [
+        {
+          "size": "190x80cm",
+          "measurements": "190 x 80 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 17040
+          }
+        },
+        {
+          "size": "200x80cm",
+          "measurements": "200 x 80 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 17352
+          }
+        },
+        {
+          "size": "190x90cm",
+          "measurements": "190 x 90 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 18960
+          }
+        },
+        {
+          "size": "200x90cm",
+          "measurements": "200 x 90 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 19188
+          }
+        },
+        {
+          "size": "200x100cm",
+          "measurements": "200 x 100 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 21192
+          }
+        },
+        {
+          "size": "190x120cm",
+          "measurements": "190 x 120 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 24600
+          }
+        },
+        {
+          "size": "200x120cm",
+          "measurements": "200 x 120 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 25431
+          }
+        },
+        {
+          "size": "190x140cm",
+          "measurements": "190 x 140 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 27720
+          }
+        },
+        {
+          "size": "200x140cm",
+          "measurements": "200 x 140 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 28560
+          }
+        },
+        {
+          "size": "190x150cm",
+          "measurements": "190 x 150 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 28320
+          }
+        },
+        {
+          "size": "190x160cm",
+          "measurements": "190 x 160 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 32040
+          }
+        },
+        {
+          "size": "200x160cm",
+          "measurements": "200 x 160 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 32280
+          }
+        },
+        {
+          "size": "195x165cm",
+          "measurements": "195 x 165 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 34440
+          }
+        },
+        {
+          "size": "190x180cm",
+          "measurements": "190 x 180 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 35832
+          }
+        },
+        {
+          "size": "200x180cm",
+          "measurements": "200 x 180 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 36000
+          }
+        }
+      ],
+      "features": {
+        "en": [
+          "Core firmness and support",
+          "Very comfortable surface",
+          "Quality justifies the price",
+          "Very durable and comfortable",
+          "EU-sourced materials",
+          "Safe for human health",
+          "24cm height",
+          "3-year warranty"
+        ],
+        "sr": [
+          "Čvrstoća i nosivost jezgra",
+          "Veoma udobna površina",
+          "Kvalitet opravdava cenu",
+          "Veoma izdržljiv i udoban",
+          "Materijali iz EU",
+          "Bezbedno po ljudsko zdravlje",
+          "Visina 24cm",
+          "3 godine garancije"
+        ]
+      },
+      "specifications": {
+        "height": "24cm",
+        "firmness": {
+          "en": "Firm core with comfortable surface",
+          "sr": "Čvrsto jezgro sa udobnom površinom"
+        },
+        "warranty": {
+          "en": "3 years",
+          "sr": "3 godine"
+        },
+        "cover": {
+          "en": "Fixed cover made of fabric with 60% cotton and 40% polyester composition, quilted with 300gr/m² PES wadding, 10mm foam density 20kg/m³, and retex.",
+          "sr": "Presvlaka je fiksna izgrađena od platna sirovinskog sastava 60% pamuk i 40% poliester, prošivena 300gr/m² pes vatom, 10mm sunđerom gustine 20kg/m³, i reteksom."
+        },
+        "core": {
+          "en": "Bonnell wire core 15cm height, 2.2mm wire thickness, 120+ springs/m². Fixed thermal felt 1000gr/m² on both sides. Core interior reinforced with foam bands, density 25kg/m³, height 14cm and width 4cm.",
+          "sr": "Sačinjena od žičanog jezgra Bonnelli visine 15cm debljina žice 2,2mm i gustinom opruga višom od 120 kom/m². Sa obe strane jezgra fiksiran je termofilc 1000gr/m², unutrašnjost jezgra je ojačana kajama sunđera, gustine 25kg/m³ visine 14cm i širine 4cm."
+        },
+        "foam": {
+          "en": "Complete core covered with foam on all sides, top and bottom sides 3cm thickness density 30kg/m³ and reinforced side bands 7cm density 35kg/m³. Core sewn with flash frame on both sides.",
+          "sr": "Kompletno jezgro obloženo je sa svih strana sunđerom, sa gornje i donje strane debljine 3cm gustine 30kg/m³ i pojačanih bočnih obruča 7cm gustine 35kg/m³. Jezgro je obšiveno flah ramom sa obe strane."
+        },
+        "tolerances": {
+          "en": "Allowed deviation in product dimensions: length ±1.5cm, width ±1cm, height ±1cm",
+          "sr": "Dozvoljeno odstupanje u dimenzijama proizvoda po dužini 1,5cm po širini 1cm po visini 1cm"
+        },
+        "care": {
+          "en": "Machine washing of cover is prohibited. Use only furniture maintenance products for cleaning.",
+          "sr": "Zabranjeno mašinsko pranje presvlake. Za čišćenje proizvoda koristi isključivo sredstva za održavanje mebla."
+        },
+        "materials": {
+          "en": "EU-sourced materials, chemical-free, safe for human health",
+          "sr": "Materijali iz EU, bez štetnih hemikalija, bezbedni po ljudsko zdravlje"
+        }
+      },
+      "images": [],
+      "category": "memory-foam",
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": "memory-v",
+      "order": 7,
+      "coverImage": {
+        "path": "/Memory-V.jpg",
+        "alt": {
+          "en": "Memory V Mattress - Memory and PU foam combination for complete body adaptability",
+          "sr": "Memory V dušek - Kombinacija Memory i Pur pene za kompletnu prilagodljivost telu"
+        }
+      },
+      "name": {
+        "en": "Memory V",
+        "sr": "Memory V"
+      },
+      "description": {
+        "en": "The combination of Memory and PU foam enables complete body adaptability. Recommended for all ages who are exposed to fatigue and stress during the day. All materials used for this product originate from the EU and as such do not contain substances harmful to human health.",
+        "sr": "Kombinacija Memori i Pur pene omogućava kompletnu prilagodljivost telu. Preporučuje se svim uzrastima koji su izloženi umoru i stresu tokom dana. Svi materijali upotrebljeni za ovaj proizvod vode poreklo iz EU i kao takvi ne sadrže materije koje su štetne po ljudsko zdravlje."
+      },
+      "shortDescription": {
+        "en": "Memory and PU foam combination for complete body adaptability",
+        "sr": "Kombinacija Memory i Pur pene za kompletnu prilagodljivost telu"
+      },
+      "dimensions": [
+        {
+          "size": "200x80cm",
+          "measurements": "200 x 80 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 17880
+          }
+        },
+        {
+          "size": "200x90cm",
+          "measurements": "200 x 90 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 18900
+          }
+        },
+        {
+          "size": "200x100cm",
+          "measurements": "200 x 100 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 23640
+          }
+        },
+        {
+          "size": "200x120cm",
+          "measurements": "200 x 120 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 30000
+          }
+        },
+        {
+          "size": "200x140cm",
+          "measurements": "200 x 140 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 35280
+          }
+        },
+        {
+          "size": "200x160cm",
+          "measurements": "200 x 160 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 40560
+          }
+        },
+        {
+          "size": "200x180cm",
+          "measurements": "200 x 180 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 45240
+          }
+        }
+      ],
+      "features": {
+        "en": [
+          "Memory and PU foam combination",
+          "Complete body adaptability",
+          "Recommended for all ages",
+          "Ideal for fatigue and stress relief",
+          "EU-sourced materials",
+          "Safe for human health",
+          "23cm height",
+          "5-year warranty"
+        ],
+        "sr": [
+          "Kombinacija Memory i Pur pene",
+          "Kompletna prilagodljivost telu",
+          "Preporučuje se svim uzrastima",
+          "Idealan za umor i stres",
+          "Materijali iz EU",
+          "Bezbedno po ljudsko zdravlje",
+          "Visina 23cm",
+          "5 godina garancije"
+        ]
+      },
+      "specifications": {
+        "height": "23cm",
+        "firmness": {
+          "en": "Medium with memory adaptation",
+          "sr": "Srednji sa memory prilagođavanjem"
+        },
+        "warranty": {
+          "en": "5 years",
+          "sr": "5 godina"
+        },
+        "cover": {
+          "en": "Cover made of stretch, anti-allergic fabric quilted with 200gr/m² PES wadding and stretch mesh.",
+          "sr": "Presvlaka je od rastegljivog, antialergijskog platna prošivena sa 200gr/m² pes vatom i rastegljivom mrežicom."
+        },
+        "core": {
+          "en": "Composed of special foam layers with different specific densities: 14cm height PU foam 25kg/m³, 2cm HR foam 40kg/m³ and memory foam 50kg/m³.",
+          "sr": "Sastavljena je od sloja specijalnih sunđera različite specifične gustine, dakle, 14cm visine čini Pu pena 25kg/m³, 2cm HR pena 40kg/m³ i memori pene 50kg/m³."
+        },
+        "care": {
+          "en": "Cover can be hand washed at 40°C. Optimal effect is achieved at temperatures from 15°C to 30°C.",
+          "sr": "Presvlaka se pere na 40ºC ručno. Pravi efekat se postiže na temperaturi od 15ºC do 30ºC."
+        },
+        "materials": {
+          "en": "EU-sourced materials, chemical-free, safe for human health",
+          "sr": "Materijali iz EU, bez štetnih hemikalija, bezbedni po ljudsko zdravlje"
+        }
+      },
+      "images": [],
+      "category": "memory-foam",
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": "memory-s",
+      "order": 8,
+      "coverImage": {
+        "path": "/Memory-S.jpg",
+        "alt": {
+          "en": "Memory S Mattress - Memory and PU foam combination for complete body adaptability",
+          "sr": "Memory S dušek - Kombinacija Memory i Pur pene za kompletnu prilagodljivost telu"
+        }
+      },
+      "name": {
+        "en": "Memory S",
+        "sr": "Memory S"
+      },
+      "description": {
+        "en": "The combination of Memory and PU foam enables complete body adaptability. Recommended for all ages who are exposed to fatigue and stress during the day. All materials used for this product originate from the EU and as such do not contain substances harmful to human health.",
+        "sr": "Kombinacija Memori i Pur pene omogućava kompletnu prilagodljivost telu. Preporučuje se svim uzrastima koji su izloženi umoru i stresu tokom dana. Svi materijali upotrebljeni za ovaj proizvod vode poreklo iz EU i kao takvi ne sadrže materije koje su štetne po ljudsko zdravlje."
+      },
+      "shortDescription": {
+        "en": "Memory and PU foam combination for complete body adaptability",
+        "sr": "Kombinacija Memory i Pur pene za kompletnu prilagodljivost telu"
+      },
+      "dimensions": [
+        {
+          "size": "200x80cm",
+          "measurements": "200 x 80 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 17444
+          }
+        },
+        {
+          "size": "200x90cm",
+          "measurements": "200 x 90 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 17894
+          }
+        },
+        {
+          "size": "200x100cm",
+          "measurements": "200 x 100 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 22500
+          }
+        },
+        {
+          "size": "200x120cm",
+          "measurements": "200 x 120 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 28800
+          }
+        },
+        {
+          "size": "200x140cm",
+          "measurements": "200 x 140 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 33600
+          }
+        },
+        {
+          "size": "200x160cm",
+          "measurements": "200 x 160 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 38520
+          }
+        },
+        {
+          "size": "200x180cm",
+          "measurements": "200 x 180 cm",
+          "price": {
+            "currency": "RSD",
+            "amount": 43320
+          }
+        }
+      ],
+      "features": {
+        "en": [
+          "Memory and PU foam combination",
+          "Complete body adaptability",
+          "Recommended for all ages",
+          "Ideal for fatigue and stress relief",
+          "EU-sourced materials",
+          "Safe for human health",
+          "20cm height",
+          "3-year warranty"
+        ],
+        "sr": [
+          "Kombinacija Memory i Pur pene",
+          "Kompletna prilagodljivost telu",
+          "Preporučuje se svim uzrastima",
+          "Idealan za umor i stres",
+          "Materijali iz EU",
+          "Bezbedno po ljudsko zdravlje",
+          "Visina 20cm",
+          "3 godine garancije"
+        ]
+      },
+      "specifications": {
+        "height": "20cm",
+        "firmness": {
+          "en": "Medium with memory adaptation",
+          "sr": "Srednji sa memory prilagođavanjem"
+        },
+        "warranty": {
+          "en": "3 years",
+          "sr": "3 godine"
+        },
+        "cover": {
+          "en": "Cover made of stretch, anti-allergic fabric quilted with 200gr/m² PES wadding and stretch mesh.",
+          "sr": "Presvlaka je od rastegljivog, antialergijskog platna prošivena sa 200gr/m² pes vatom i rastegljivom mrežicom."
+        },
+        "core": {
+          "en": "Composed of special foam layers with different specific densities: 14cm height PU foam 25kg/m³, 2cm HR foam 40kg/m³ and memory foam 50kg/m³.",
+          "sr": "Sastavljena je od sloja specijalnih sunđera različite specifične gustine, dakle, 14cm visine čini Pu pena 25kg/m³, 2cm HR pena 40kg/m³ i memori pene 50kg/m³."
+        },
+        "care": {
+          "en": "Cover can be hand washed at 40°C. Optimal effect is achieved at temperatures from 15°C to 30°C.",
+          "sr": "Presvlaka se pere na 40ºC ručno. Pravi efekat se postiže na temperaturi od 15ºC do 30ºC."
+        },
+        "materials": {
+          "en": "EU-sourced materials, chemical-free, safe for human health",
+          "sr": "Materijali iz EU, bez štetnih hemikalija, bezbedni po ljudsko zdravlje"
+        }
+      },
+      "images": [],
+      "category": "memory-foam",
+      "inStock": true,
+      "featured": false
+    }
+  ]
+}

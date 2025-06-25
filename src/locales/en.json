@@ -1,0 +1,94 @@
+{
+  "header": {
+    "phone": "Call us: +381636621775",
+    "email": "info@leader.com",
+    "companyName": "Leader",
+    "tagline": "Premium Sleep Solutions",
+    "nav": {
+      "home": "Home",
+      "mattresses": "Mattresses",
+      "beds": "Beds",
+      "about": "About",
+      "contact": "Contact"
+    }
+  },
+  "main": {
+    "welcome": "Welcome to Leader",
+    "subtitle": "Premium Sleep Solutions Coming Soon"
+  },
+  "footer": {
+    "companyName": "Leader",
+    "contactUs": "Contact Us",
+    "address": "123 Sleep Street\nComfort City, CC 12345",
+    "phone": "+381636621775",
+    "email": "info@leader.com",
+    "hours": "Mon - Fri: 9AM - 8PM\nSat - Sun: 10AM - 6PM",
+    "visitShowroom": "Visit Our Showroom",
+    "experienceText": "Experience our premium mattresses in person",
+    "copyright": "© 2025 Leader. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "products": {
+    "featured": "Featured",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "more": "more",
+    "warranty": "Warranty",
+    "viewDetails": "View Details",
+    "searchPlaceholder": "Search products...",
+    "allCategories": "All Categories",
+    "sortNameAZ": "Name A-Z",
+    "sortNameZA": "Name Z-A",
+    "sortPriceLow": "Price: Low to High",
+    "sortPriceHigh": "Price: High to Low",
+    "sortPopularity": "Popularity",
+    "filters": "Filters",
+    "priceRange": "Price Range",
+    "showingResults": "Showing {{count}} of {{total}} products",
+    "noResults": "No products found",
+    "noResultsDescription": "Try adjusting your search or filter criteria"
+  },
+  "productDetail": {
+    "description": "Description",
+    "features": "Features",
+    "specifications": "Specifications",
+    "availableSizesPricing": "Available Sizes & Pricing",
+    "size": "Size",
+    "dimensions": "Dimensions",
+    "price": "Price",
+    "originalPrice": "Original Price",
+    "savings": "Savings",
+    "height": "Height",
+    "firmness": "Firmness",
+    "warranty": "Warranty",
+    "cover": "Cover",
+    "core": "Core",
+    "foam": "Foam",
+    "tolerances": "Tolerances",
+    "care": "Care Instructions",
+    "contactForPurchase": "Contact Us for Purchase",
+    "callUs": "Call Us",
+    "emailUs": "Email Us"
+  },
+  "share": {
+    "shareProduct": "Share Product",
+    "scanQRCode": "Scan QR Code",
+    "scanWithPhone": "Scan with your phone camera to open this product page",
+    "copyLink": "Copy Link",
+    "linkCopied": "Link Copied!",
+    "downloadQR": "Download QR Code",
+    "generatingQR": "Generating QR Code...",
+    "close": "Close"
+  },
+  "pages": {
+    "mattresses": {
+      "title": "Premium Mattresses",
+      "subtitle": "Discover our collection of premium mattresses designed for the perfect night's sleep. From memory foam to hybrid designs, find your ideal comfort level."
+    },
+    "beds": {
+      "title": "Luxury Beds",
+      "subtitle": "Explore our stunning collection of beds that combine style, comfort, and functionality. From modern platforms to storage solutions, create your dream bedroom."
+    }
+  }
+}

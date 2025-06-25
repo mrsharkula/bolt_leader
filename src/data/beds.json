@@ -1,0 +1,351 @@
+{
+  "beds": [
+    {
+      "id": "modern-platform-oak",
+      "order": 1,
+      "coverImage": {
+        "path": "/images/beds/modern-platform-oak/cover.jpg",
+        "alt": {
+          "en": "Modern Oak Platform Bed - Minimalist design with premium wood",
+          "sr": "Moderni hrastov platform krevet - Minimalistički dizajn sa premium drvetom"
+        }
+      },
+      "name": {
+        "en": "Modern Oak Platform Bed",
+        "sr": "Moderni hrastov platform krevet"
+      },
+      "description": {
+        "en": "Crafted from premium solid oak wood, this platform bed combines modern minimalist design with exceptional durability. Features a low-profile design perfect for contemporary bedrooms.",
+        "sr": "Izrađen od premium masivnog hrastovog drveta, ovaj platform krevet kombinuje moderni minimalistički dizajn sa izuzetnom izdržljivošću. Ima nizak profil savršen za savremene spavaće sobe."
+      },
+      "shortDescription": {
+        "en": "Premium solid oak with minimalist design",
+        "sr": "Premium masivni hrast sa minimalističkim dizajnom"
+      },
+      "dimensions": [
+        {
+          "size": "Full",
+          "measurements": "54\" x 75\"",
+          "price": {
+            "currency": "USD",
+            "amount": 699,
+            "originalAmount": 899
+          }
+        },
+        {
+          "size": "Queen",
+          "measurements": "60\" x 80\"",
+          "price": {
+            "currency": "USD",
+            "amount": 899,
+            "originalAmount": 1199
+          }
+        },
+        {
+          "size": "King",
+          "measurements": "76\" x 80\"",
+          "price": {
+            "currency": "USD",
+            "amount": 1199,
+            "originalAmount": 1499
+          }
+        },
+        {
+          "size": "California King",
+          "measurements": "72\" x 84\"",
+          "price": {
+            "currency": "USD",
+            "amount": 1299,
+            "originalAmount": 1599
+          }
+        }
+      ],
+      "features": {
+        "en": [
+          "Solid oak wood construction",
+          "Low-profile platform design",
+          "No box spring required",
+          "Easy assembly",
+          "Sustainable wood sourcing",
+          "5-year structural warranty"
+        ],
+        "sr": [
+          "Konstrukcija od masivnog hrasta",
+          "Nizak platform dizajn",
+          "Ne zahteva dodatni okvir",
+          "Lako sklapanje",
+          "Održivo nabavljanje drveta",
+          "5 godina strukturne garancije"
+        ]
+      },
+      "specifications": {
+        "material": {
+          "en": "Solid oak wood with natural finish",
+          "sr": "Masivno hrastovo drvo sa prirodnim finišom"
+        },
+        "style": {
+          "en": "Modern platform",
+          "sr": "Moderni platform"
+        },
+        "headboard": {
+          "en": "Integrated low headboard",
+          "sr": "Integrisani nizak uzglavlje"
+        }
+      },
+      "images": [
+        {
+          "path": "/images/beds/modern-platform-oak/detail-wood.jpg",
+          "alt": {
+            "en": "Close-up of oak wood grain and craftsmanship",
+            "sr": "Detaljan prikaz strukture hrasta i izrade"
+          },
+          "order": 1
+        },
+        {
+          "path": "/images/beds/modern-platform-oak/bedroom-setup.jpg",
+          "alt": {
+            "en": "Oak platform bed in modern bedroom setting",
+            "sr": "Hrastov platform krevet u modernom spavaćem okruženju"
+          },
+          "order": 2
+        },
+        {
+          "path": "/images/beds/modern-platform-oak/assembly.jpg",
+          "alt": {
+            "en": "Bed assembly components and hardware",
+            "sr": "Komponente za sklapanje kreveta i hardver"
+          },
+          "order": 3
+        }
+      ],
+      "category": "platform",
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": "upholstered-velvet-luxury",
+      "order": 2,
+      "coverImage": {
+        "path": "/images/beds/upholstered-velvet-luxury/cover.jpg",
+        "alt": {
+          "en": "Luxury Velvet Upholstered Bed - Elegant comfort and style",
+          "sr": "Luksuzni baršunasti tapaciran krevet - Elegantna udobnost i stil"
+        }
+      },
+      "name": {
+        "en": "Luxury Velvet Upholstered Bed",
+        "sr": "Luksuzni baršunasti tapaciran krevet"
+      },
+      "description": {
+        "en": "Indulge in luxury with this stunning velvet upholstered bed. Features a tall, tufted headboard and premium velvet fabric that adds sophistication to any bedroom.",
+        "sr": "Uživajte u luksuzu sa ovim zadivljujućim baršunastim tapaciranim krevetom. Ima visoko, kaptovano uzglavlje i premium baršunasta tkanina koja dodaje sofisticiranost bilo kojoj spavaćoj sobi."
+      },
+      "shortDescription": {
+        "en": "Premium velvet upholstery with tufted headboard",
+        "sr": "Premium baršunasta tapacerija sa kaptovanim uzglavljem"
+      },
+      "dimensions": [
+        {
+          "size": "Queen",
+          "measurements": "60\" x 80\"",
+          "price": {
+            "currency": "USD",
+            "amount": 1099,
+            "originalAmount": 1399
+          }
+        },
+        {
+          "size": "King",
+          "measurements": "76\" x 80\"",
+          "price": {
+            "currency": "USD",
+            "amount": 1299,
+            "originalAmount": 1699
+          }
+        },
+        {
+          "size": "California King",
+          "measurements": "72\" x 84\"",
+          "price": {
+            "currency": "USD",
+            "amount": 1399,
+            "originalAmount": 1799
+          }
+        }
+      ],
+      "features": {
+        "en": [
+          "Premium velvet upholstery",
+          "Deep button tufted headboard",
+          "Solid wood frame construction",
+          "Metal slat support system",
+          "Available in multiple colors",
+          "3-year upholstery warranty"
+        ],
+        "sr": [
+          "Premium baršunasta tapacerija",
+          "Duboko kaptovano uzglavlje",
+          "Konstrukcija od masivnog drveta",
+          "Metalni sistem podrške",
+          "Dostupno u više boja",
+          "3 godine garancije na tapaceriju"
+        ]
+      },
+      "specifications": {
+        "material": {
+          "en": "Premium velvet fabric, solid wood frame",
+          "sr": "Premium baršunasta tkanina, okvir od masivnog drveta"
+        },
+        "style": {
+          "en": "Contemporary upholstered",
+          "sr": "Savremeni tapaciran"
+        },
+        "headboard": {
+          "en": "Tall tufted headboard (60 inches)",
+          "sr": "Visoko kaptovano uzglavlje (152 cm)"
+        },
+        "colors": {
+          "en": ["Navy Blue", "Emerald Green", "Charcoal Gray", "Blush Pink"],
+          "sr": ["Mornarsko plava", "Smaragdno zelena", "Antracit siva", "Ružičasta"]
+        }
+      },
+      "images": [
+        {
+          "path": "/images/beds/upholstered-velvet-luxury/headboard-detail.jpg",
+          "alt": {
+            "en": "Close-up of tufted velvet headboard detail",
+            "sr": "Detaljan prikaz kaptovanog baršunastog uzglavlja"
+          },
+          "order": 1
+        },
+        {
+          "path": "/images/beds/upholstered-velvet-luxury/color-options.jpg",
+          "alt": {
+            "en": "Available color options for velvet upholstery",
+            "sr": "Dostupne opcije boja za baršunastu tapaceriju"
+          },
+          "order": 2
+        },
+        {
+          "path": "/images/beds/upholstered-velvet-luxury/luxury-bedroom.jpg",
+          "alt": {
+            "en": "Velvet bed in luxurious bedroom setting",
+            "sr": "Baršunasti krevet u luksuznom spavaćem okruženju"
+          },
+          "order": 3
+        }
+      ],
+      "category": "upholstered",
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": "storage-captain-walnut",
+      "order": 3,
+      "coverImage": {
+        "path": "/images/beds/storage-captain-walnut/cover.jpg",
+        "alt": {
+          "en": "Walnut Storage Captain Bed - Maximum storage with style",
+          "sr": "Orahov krevet sa skladištem - Maksimalno skladište sa stilom"
+        }
+      },
+      "name": {
+        "en": "Walnut Storage Captain Bed",
+        "sr": "Orahov krevet sa skladištem"
+      },
+      "description": {
+        "en": "Maximize your bedroom storage with this beautiful walnut captain's bed. Features multiple drawers and compartments while maintaining elegant design and superior craftsmanship.",
+        "sr": "Maksimizujte skladište u spavaćoj sobi sa ovim prekrasnim orahovim kapetanskim krevetom. Ima više fioka i odeljaka dok zadržava elegantan dizajn i vrhunsku izradu."
+      },
+      "shortDescription": {
+        "en": "Walnut wood with integrated storage solutions",
+        "sr": "Orahovo drvo sa integrisanim rešenjima za skladištenje"
+      },
+      "dimensions": [
+        {
+          "size": "Full",
+          "measurements": "54\" x 75\"",
+          "price": {
+            "currency": "USD",
+            "amount": 1299,
+            "originalAmount": 1599
+          }
+        },
+        {
+          "size": "Queen",
+          "measurements": "60\" x 80\"",
+          "price": {
+            "currency": "USD",
+            "amount": 1599,
+            "originalAmount": 1999
+          }
+        }
+      ],
+      "features": {
+        "en": [
+          "Solid walnut wood construction",
+          "6 spacious storage drawers",
+          "Bookcase headboard with shelves",
+          "Soft-close drawer mechanisms",
+          "Cable management system",
+          "10-year structural warranty"
+        ],
+        "sr": [
+          "Konstrukcija od masivnog oraha",
+          "6 prostranih fioka za skladištenje",
+          "Uzglavlje sa policama",
+          "Mehanizam za tiho zatvaranje fioka",
+          "Sistem za upravljanje kablovima",
+          "10 godina strukturne garancije"
+        ]
+      },
+      "specifications": {
+        "material": {
+          "en": "Solid walnut wood with natural finish",
+          "sr": "Masivno orahovo drvo sa prirodnim finišom"
+        },
+        "style": {
+          "en": "Captain's bed with storage",
+          "sr": "Kapetanski krevet sa skladištem"
+        },
+        "storage": {
+          "en": "6 drawers + headboard shelving",
+          "sr": "6 fioka + police u uzglavlju"
+        },
+        "headboard": {
+          "en": "Bookcase headboard with adjustable shelves",
+          "sr": "Uzglavlje sa podesivim policama"
+        }
+      },
+      "images": [
+        {
+          "path": "/images/beds/storage-captain-walnut/drawer-detail.jpg",
+          "alt": {
+            "en": "Storage drawer with soft-close mechanism",
+            "sr": "Fioka za skladištenje sa mehanizmom za tiho zatvaranje"
+          },
+          "order": 1
+        },
+        {
+          "path": "/images/beds/storage-captain-walnut/headboard-shelves.jpg",
+          "alt": {
+            "en": "Bookcase headboard with organized storage",
+            "sr": "Uzglavlje sa organizovanim skladištem"
+          },
+          "order": 2
+        },
+        {
+          "path": "/images/beds/storage-captain-walnut/organized-bedroom.jpg",
+          "alt": {
+            "en": "Storage bed in well-organized bedroom",
+            "sr": "Krevet sa skladištem u dobro organizovanoj spavaćoj sobi"
+          },
+          "order": 3
+        }
+      ],
+      "category": "storage",
+      "inStock": true,
+      "featured": false
+    }
+  ]
+}

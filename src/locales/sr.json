@@ -1,0 +1,94 @@
+{
+  "header": {
+    "phone": "Pozovite nas: +381636621775",
+    "email": "info@leader.com",
+    "companyName": "Leader",
+    "tagline": "Premium rešenja za spavanje",
+    "nav": {
+      "home": "Početna",
+      "mattresses": "Dušeci",
+      "beds": "Kreveti",
+      "about": "O nama",
+      "contact": "Kontakt"
+    }
+  },
+  "main": {
+    "welcome": "Dobrodošli u Leader",
+    "subtitle": "Premium rešenja za spavanje uskoro"
+  },
+  "footer": {
+    "companyName": "Leader",
+    "contactUs": "Kontaktirajte nas",
+    "address": "Ulica spavanja 123\nGrad udobnosti, GU 12345",
+    "phone": "+381636621775",
+    "email": "info@leader.com",
+    "hours": "Pon - Pet: 9h - 20h\nSub - Ned: 10h - 18h",
+    "visitShowroom": "Posetite naš salon",
+    "experienceText": "Iskusite naše premium dušeke uživo",
+    "copyright": "© 2025 Leader. Sva prava zadržana.",
+    "privacyPolicy": "Politika privatnosti",
+    "termsOfService": "Uslovi korišćenja"
+  },
+  "products": {
+    "featured": "Izdvojeno",
+    "inStock": "Na stanju",
+    "outOfStock": "Nema na stanju",
+    "more": "više",
+    "warranty": "Garancija",
+    "viewDetails": "Pogledaj detalje",
+    "searchPlaceholder": "Pretraži proizvode...",
+    "allCategories": "Sve kategorije",
+    "sortNameAZ": "Ime A-Z",
+    "sortNameZA": "Ime Z-A",
+    "sortPriceLow": "Cena: Od najniže",
+    "sortPriceHigh": "Cena: Od najviše",
+    "sortPopularity": "Popularnost",
+    "filters": "Filteri",
+    "priceRange": "Cenovni opseg",
+    "showingResults": "Prikazuje se {{count}} od {{total}} proizvoda",
+    "noResults": "Nema pronađenih proizvoda",
+    "noResultsDescription": "Pokušajte da prilagodite kriterijume pretrage ili filtera"
+  },
+  "productDetail": {
+    "description": "Opis",
+    "features": "Karakteristike",
+    "specifications": "Specifikacije",
+    "availableSizesPricing": "Dostupne veličine i cene",
+    "size": "Veličina",
+    "dimensions": "Dimenzije",
+    "price": "Cena",
+    "originalPrice": "Originalna cena",
+    "savings": "Ušteda",
+    "height": "Visina",
+    "firmness": "Čvrstoća",
+    "warranty": "Garancija",
+    "cover": "Presvlaka",
+    "core": "Jezgro",
+    "foam": "Pena",
+    "tolerances": "Tolerancije",
+    "care": "Uputstva za održavanje",
+    "contactForPurchase": "Kontaktirajte nas za kupovinu",
+    "callUs": "Pozovite nas",
+    "emailUs": "Pošaljite email"
+  },
+  "share": {
+    "shareProduct": "Podeli proizvod",
+    "scanQRCode": "Skeniraj QR kod",
+    "scanWithPhone": "Skeniraj kamerom telefona da otvoriš ovu stranicu proizvoda",
+    "copyLink": "Kopiraj link",
+    "linkCopied": "Link kopiran!",
+    "downloadQR": "Preuzmi QR kod",
+    "generatingQR": "Generiše se QR kod...",
+    "close": "Zatvori"
+  },
+  "pages": {
+    "mattresses": {
+      "title": "Premium dušeci",
+      "subtitle": "Otkrijte našu kolekciju premium dušeka dizajniranih za savršen san. Od memorijske pene do hibridnih dizajna, pronađite svoj idealan nivo udobnosti."
+    },
+    "beds": {
+      "title": "Luksuzni kreveti",
+      "subtitle": "Istražite našu zadivljujuću kolekciju kreveta koji kombinuju stil, udobnost i funkcionalnost. Od modernih platformi do rešenja za skladištenje, kreirajte svoju spavaću sobu iz snova."
+    }
+  }
+}
